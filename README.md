@@ -96,10 +96,10 @@ A Feedforward MLP built with TensorFlow/Keras:
 ---
 
 ## Dependencies
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
+pandas,
+numpy,
+matplotlib,
+seaborn,
+scikit-learn,
+xgboost,
 tensorflow
